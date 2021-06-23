@@ -11,7 +11,6 @@ Navigate to microservice/product-review-service and run command: $ ./mvnw spring
 Navigate to microservice/product-service and run command: $ ./mvnw spring-boot:run
 
 # Pending tasks
-- Unit tests
 - Security for write operations
 - Create base project with common files and add dependency to both projects
 - Implement caching
